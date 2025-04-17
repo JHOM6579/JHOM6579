@@ -26,9 +26,7 @@ Hoje, atuo como **Assistente de T.I.** na **Reata Arquitetura e Engenharia**, on
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)  
-![Hardware Support](https://img.shields.io/badge/Hardware%20Support-00BFFF?style=for-the-badge&logo=hp&logoColor=white)  
-![Networking](https://img.shields.io/badge/Networking-228B22?style=for-the-badge&logo=cisco&logoColor=white)  
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)    
 ![Virtual Reality](https://img.shields.io/badge/Virtual%20Reality-8A2BE2?style=for-the-badge&logo=oculus&logoColor=white)  
 
 ---
