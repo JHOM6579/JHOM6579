@@ -25,10 +25,13 @@ Hoje, atuo como **Assistente de T.I.** na **Reata Arquitetura e Engenharia**, on
 
 ## 🚀 Tecnologias e Ferramentas:
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)    
-![Virtual Reality](https://img.shields.io/badge/Virtual%20Reality-8A2BE2?style=for-the-badge&logo=oculus&logoColor=white)  
+<p align="left">
+  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/Hardware-%2300BFFF.svg?style=for-the-badge&logo=server&logoColor=white" alt="Hardware"/>
+  <img src="https://img.shields.io/badge/Virtual_Reality-%238A2BE2.svg?style=for-the-badge&logo=oculus&logoColor=white" alt="Virtual Reality"/>
+</p>
 
 ---
 
