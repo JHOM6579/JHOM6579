@@ -1,12 +1,14 @@
 ## 👋Olá, Sou Júlio Henrique! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px"> 
 
-
 <a target="_blank" href="https://www.linkedin.com/in/j%C3%BAlio-henrique-de-oliveira-mendon%C3%A7a-29b7a7229/">
-  <img color:#ffffff align="left"  alt="LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="LinkedIn" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" />
 </a>
+
 <a target="_blank" href="https://www.instagram.com/_juliohen_/?next=%2F">
-  <img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+  <img align="left" alt="Instagram" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" />
 </a>
+
+
 </br>
 </br>
 
@@ -32,13 +34,6 @@ Hoje, atuo como **Assistente de T.I.** na **Reata Arquitetura e Engenharia**, on
   <img src="https://img.shields.io/badge/Hardware-%2300BFFF.svg?style=for-the-badge&logo=server&logoColor=white" alt="Hardware"/>
   <img src="https://img.shields.io/badge/Virtual_Reality-%238A2BE2.svg?style=for-the-badge&logo=oculus&logoColor=white" alt="Virtual Reality"/>
 </p>
-
----
-
-## 📚 Atualmente estudando:
-- Desenvolvimento Web (HTML, CSS)
-- Programação Java
-- Conceitos de redes e infraestrutura avançada
 
 ---
 
