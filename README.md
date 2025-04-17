@@ -1,4 +1,4 @@
-## 👋Olá, Sou Júlio! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px"> 
+## 👋Olá, Sou Júlio Henrique! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px"> 
 
 
 <a target="_blank" href="www.linkedin.com/in/paulo-victor-cosmo-batista-537047218/](https://www.linkedin.com/in/j%C3%BAlio-henrique-de-oliveira-mendon%C3%A7a-29b7a7229/)">
@@ -9,17 +9,36 @@
 </a>
 </br>
 
-<!--
-**JHOM6579/JHOM6579** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Apaixonado por tecnologia e especialista em transformar desafios técnicos em soluções eficientes!
 
-Here are some ideas to get you started:
+Minha jornada começou no curso técnico de **Redes de Computadores** pelo **SENAI**, passando pela prática em montagem e manutenção de computadores na loja **T-Infra**.  
+Hoje, atuo como **Assistente de T.I.** na **Reata Arquitetura e Engenharia**, onde estou há quase 3 anos, trabalhando com:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🖥️ Suporte técnico de hardware e software
+- 📡 Gerenciamento e manutenção de redes (básico)
+- 🎮 Suporte e manutenção de dispositivos de Realidade Virtual (Oculus Quest 2)
+- 🏢 Controle e automação de salas de reunião (projetor, ar-condicionado, sistemas de áudio e vídeo)
+- 🔧 Organização de infraestrutura de T.I. para eventos e apresentações
+
+---
+
+## 🚀 Tecnologias e Ferramentas:
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)  
+![Hardware Support](https://img.shields.io/badge/Hardware%20Support-00BFFF?style=for-the-badge&logo=hp&logoColor=white)  
+![Networking](https://img.shields.io/badge/Networking-228B22?style=for-the-badge&logo=cisco&logoColor=white)  
+![Virtual Reality](https://img.shields.io/badge/Virtual%20Reality-8A2BE2?style=for-the-badge&logo=oculus&logoColor=white)  
+
+---
+
+## 📚 Atualmente estudando:
+- Desenvolvimento Web (HTML, CSS)
+- Programação Java
+- Conceitos de redes e infraestrutura avançada
+
+---
+
+💬 **Sempre buscando novos conhecimentos e desafios na área de T.I.!**
+
