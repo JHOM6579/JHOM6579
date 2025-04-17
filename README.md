@@ -1,7 +1,7 @@
 ## 👋Olá, Sou Júlio Henrique! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px"> 
 
 
-<a target="_blank" href="www.linkedin.com/in/júlio-henrique-de-oliveira-mendonça-29b7a7229/">
+<a target="_blank" href="www.linkedin.com/in/júlio-henrique-de-oliveira-mendonça-29b7a7229">
   <img color:#ffffff align="left"  alt="LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a target="_blank" href="https://www.instagram.com/_juliohen_/?next=%2F">
