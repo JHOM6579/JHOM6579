@@ -1,6 +1,14 @@
 ## 👋Olá, Sou Júlio! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px"> 
 
 
+<a target="_blank" href="www.linkedin.com/in/paulo-victor-cosmo-batista-537047218/](https://www.linkedin.com/in/j%C3%BAlio-henrique-de-oliveira-mendon%C3%A7a-29b7a7229/)">
+  <img color:#fff align="left"  alt="LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a target="_blank" href="https://www.instagram.com/_juliohen_/?next=%2F">
+  <img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
+</br>
+
 <!--
 **JHOM6579/JHOM6579** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
