@@ -8,8 +8,9 @@
   <img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 </br>
+</br>
 
-🎯 Apaixonado por tecnologia e especialista em transformar desafios técnicos em soluções eficientes!
+🎯Olá, Sou Júlio Henrique Apaixonado por tecnologia e especialista em transformar desafios técnicos em soluções eficientes!
 
 Minha jornada começou no curso técnico de **Redes de Computadores** pelo **SENAI**, passando pela prática em montagem e manutenção de computadores na loja **T-Infra**.  
 Hoje, atuo como **Assistente de T.I.** na **Reata Arquitetura e Engenharia**, onde estou há quase 3 anos, trabalhando com:
